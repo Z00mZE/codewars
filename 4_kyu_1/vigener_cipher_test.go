@@ -1,4 +1,4 @@
-package kata
+package __kyu_1
 
 import (
 	"testing"
